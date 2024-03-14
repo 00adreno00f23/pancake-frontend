@@ -1,4 +1,3 @@
-hello world
 {
   "$schema": "https://unpkg.com/@changesets/config@2.2.0/schema.json",
   "changelog": "@changesets/cli/changelog",
@@ -17,5 +16,5 @@ hello world
     "bridge",
     "e2e",
     "web3"
-  ]
+
 }
