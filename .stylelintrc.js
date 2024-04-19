@@ -8,9 +8,7 @@ const commonRules = {
   'custom-property-empty-line-before': null,
   'declaration-empty-line-before': null,
   'function-whitespace-after': null,
-  'no-descending-specificity': null,
-  'rule-empty-line-before': null,
-  'value-keyword-case': null,
+
 }
 
 /**
