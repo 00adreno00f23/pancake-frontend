@@ -7,8 +7,7 @@
   "access": "public",
   "baseBranch": "develop",
   "updateInternalDependencies": "patch",
-  "ignore": [
-    "@pancakeswap/eslint-config-pancake",
+  "ignor
     "@pancakeswap/ui-wallets",
     "farms-api",
     "aptos-web",
