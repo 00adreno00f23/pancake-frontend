@@ -4,16 +4,5 @@
   "commit": false,
   "fixed": [],
   "linked": [],
-  "access": "public",
-  "baseBranch": "develop",
-  "updateInternalDependencies": "patch",
-  "ignor
-    "@pancakeswap/ui-wallets",
-    "farms-api",
-    "aptos-web",
-    "blog",
-    "bridge",
-    "e2e",
-    "web3"
-
+  
 }
