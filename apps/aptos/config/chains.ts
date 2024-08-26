@@ -2,4 +2,4 @@
 
 export { defaultChain }
 
-export const chains = [mainnet, testnet].filter(Boolean) as Chain[]
+export const chains = [mainnet, testnet].filter(Bool
